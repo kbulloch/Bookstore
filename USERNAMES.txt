@@ -5,3 +5,7 @@ password: admin
 SITE ADMIN>>
 username: admin
 password: admin
+
+REVIEWER>>
+username: frank
+password: password

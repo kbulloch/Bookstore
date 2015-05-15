@@ -1,0 +1,7 @@
+DATABASE>>
+username: admin
+password: admin
+
+SITE ADMIN>>
+username: admin
+password: admin
